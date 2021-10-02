@@ -11,6 +11,8 @@
 
 
 [Practica protocolo RIP.pdf](https://github.com/DayalizMLHM/Portafolio-Proyectos/files/7270701/Practica.protocolo.RIP.pdf)
+![image](https://user-images.githubusercontent.com/87503625/135699588-aefafd66-bcbb-4c2f-ab8a-11574f02a9e2.png)
 
 
 [PRACTICA SERVIDORES HTTP.pdf](https://github.com/DayalizMLHM/Portafolio-Proyectos/files/7270702/PRACTICA.SERVIDORES.HTTP.pdf)
+![image](https://user-images.githubusercontent.com/87503625/135699593-001768e5-6af3-45f6-9396-8cd52b057bd9.png)
